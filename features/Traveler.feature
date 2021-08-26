@@ -24,8 +24,4 @@ Funcionalidade: Traveler
         Então a quantidade de refeições deve ser igual a 0
         E o Traveler ficará doente
 
-    Cenário: Saiu para caçar, comeu e seguiu saudável
-        Quando o Traveler sair para caçar 2 vezes
-        E o Traveler parar para comer 2 vezes
-        Então a quantidade de refeições deve ser igual a 3
-        E o Traveler não ficará doente
+    
